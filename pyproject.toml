@@ -8,6 +8,7 @@ authors = ["Hadeel H Al-Hawajreh <hadeelhhawajreh@gmail.com>"]
 python = "^3.9"
 jupyterlab = "^2.2.9"
 pandas = "^1.1.5"
+numpy = "^1.19.4"
 
 [tool.poetry.dev-dependencies]
 
